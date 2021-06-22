@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##ブレンステッドのブログ（テスト）
 
 You can use the [editor on GitHub](https://github.com/bronsted-2000/test1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
